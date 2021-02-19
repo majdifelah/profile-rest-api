@@ -1,5 +1,3 @@
 #Profile REST API
 
-Profiles REST API course ```
-
-```
+Profiles REST API course.
